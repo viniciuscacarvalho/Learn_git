@@ -1,0 +1,1 @@
+/usr/bin/g++ -DQT_QML_DEBUG -g CMakeFiles/git_qt_test.dir/main.cpp.o -o git_qt_test 
